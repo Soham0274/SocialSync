@@ -39,7 +39,7 @@ Google Drive and Sheets API access
 
 Setup Steps
 1. Clone this repository
-git clone https://github.com/Soham0274/social-sync.git
+git clone (https://github.com/Soham0274/SocialSync)
 cd social-sync
 
 2. Configure API Credentials
@@ -115,7 +115,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 📧 Contact
 Soham Sawant - Soham0274 - scsawant09@gmail.com
 
-Project Link: https://github.com/Soham0274/social-sync
+Project Link:(https://github.com/Soham0274/SocialSync)
 
 🙏 Acknowledgments
 Make.com for the powerful automation platform
